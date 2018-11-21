@@ -1,4 +1,4 @@
-# CEDUS2 - Scripts Piloto Madrid 
+# CityEnabler Bridge for Madrid 
 
 ## 1. Manual  
 This manual is tested under Ubuntu 14.04.    
