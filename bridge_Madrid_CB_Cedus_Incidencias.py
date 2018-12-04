@@ -216,7 +216,7 @@ cntSemaforo = 0
 
 entities = []
 
-for child in tree.iter('Incidencias'):
+for child in tree.iter('Incidencia'):
     print_Ceduslogs("child")
     
     dataToPost = {}
